@@ -19,7 +19,7 @@ It includes the dataset structure, training pipeline, and inference scripts.
 
 ## 📂 Project Structure
 
-│── dataset/     # Dataset (images + labels)
+│── dataset/     # Dataset (images + labels) <br>
 │── labels/      # Class labels
 │── best.pt      # Final trained YOLOv8 model
 │── last.pt      # Last epoch trained model
