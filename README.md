@@ -20,14 +20,14 @@ It includes the dataset structure, training pipeline, and inference scripts.
 ## 📂 Project Structure
 
 │── dataset/     # Dataset (images + labels) <br>
-│── labels/      # Class labels
-│── best.pt      # Final trained YOLOv8 model
-│── last.pt      # Last epoch trained model
-│── data.yaml    # Dataset configuration file
-│── classes.txt  # Class names
-│── Screen_Detection.ipynb   # Jupyter Notebook for training/testing
-│── split.py     # Script to split dataset
-│── notes.json   # Notes/metadata
+│── labels/      # Class labels <br> 
+│── best.pt      # Final trained YOLOv8 model <br>
+│── last.pt      # Last epoch trained model <br>
+│── data.yaml    # Dataset configuration file <br>
+│── classes.txt  # Class names <br>
+│── Screen_Detection.ipynb   # Jupyter Notebook for training/testing <br>
+│── split.py     # Script to split dataset <br>
+│── notes.json   # Notes/metadata <br>
 
 ## Installation Instructions
 pip install ultralytics
