@@ -1,0 +1,6 @@
+train: /content/Kajal_Screen/images/train
+val: /content/Kajal_Screen/images/val
+test: /content/Kajal_Screen/images/test
+
+nc: 3
+names: ["Laptop", "Phone", "Tab"]
